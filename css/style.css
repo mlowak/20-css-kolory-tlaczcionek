@@ -1,0 +1,47 @@
+.background {
+    background-color: gray;
+    text-align: center;
+}
+
+#maintitle {
+    color: snow;
+    font-size: 30pt;
+}
+
+#paragraph-1 {
+    color: blue;
+}
+
+#subtitle {
+    color: brown;
+    text-align: center;
+}
+
+#paragraph-2 {
+    color: yellow;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
+
+#item-1 {
+    color: red;
+}
+
+#item-2 {
+    color: seagreen;
+}
+
+#item-3 {
+    color: tan;
+}
+
+#item-4 {
+    color: tomato;
+}
+
+#item-5 {
+    color: turquoise;
+}
